@@ -1,2 +1,4 @@
 Código Professor: 00000-0
 Nome Completo: Nilson Alcides
+CPF: 000.000.000-00
+RG:00-000-000-0
